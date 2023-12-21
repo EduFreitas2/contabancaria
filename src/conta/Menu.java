@@ -1,7 +1,6 @@
 package conta;
 
 import java.util.Scanner;
-import conta.model.Conta;
 import conta.util.Cores;
 import conta.model.ContaCorrente;
 import conta.model.ContaPoupanca;
